@@ -2,6 +2,10 @@ package array;
 
 public class missing_num {
 	public static void main(String[] args) {
+		
+		
+		
+		int a =10;
 		int arr[]= {1,2,4,5,6,7,8,9};
 		int n=arr.length+1;
 		int sum =n*(n+1)/2;
